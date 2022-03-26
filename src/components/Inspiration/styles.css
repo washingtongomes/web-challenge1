@@ -16,8 +16,8 @@
 }
 
 #inspiration .inspiration-cards .card {
-  height: 130px;
-  max-width: 48%;
+  height: auto;
+  max-width: 70%;
   padding: 20px;
   background-color: #203047;
   border-radius: 10px;
