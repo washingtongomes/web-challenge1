@@ -5,7 +5,7 @@ function Header() {
     <header id="header">
       <nav>
         <span className="nav-brand">
-          <span>Minhas</span> Tarefas
+          <span>Let's</span>DoIt
         </span>
 
         <div className="profile">
