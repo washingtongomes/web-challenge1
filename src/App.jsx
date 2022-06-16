@@ -2,6 +2,7 @@ import { useState } from "react";
 
 import Header from "./components/Header";
 import { Inspiration } from "./components/Inspiration";
+import {ConsultaAppLoja} from "./components/components";
 
 import "./styles/global.css";
 import "./styles/App.css";
@@ -68,7 +69,7 @@ function App() {
   return (
     <>
       <Header />
-
+      <ConsultaAppLoja />
       <Inspiration />
 
       <section id="tarefas">
