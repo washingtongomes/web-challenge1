@@ -17,8 +17,11 @@ function Header() {
           </div>
         </div>
       </nav>
+  
     </header>
+  
   );
+
 }
 
 export default Header;
