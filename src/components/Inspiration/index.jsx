@@ -7,7 +7,7 @@ export function Inspiration() {
       <div className="inspiration-cards">
         <div className="card">
           <p className="card-content">
-            " A organização de tarefas se faz necessário em nossas vidas.
+            "A organização de tarefas se faz necessário em nossas vidas.
           </p>
           <p className="card-content">
               Porém, gerenciar o tempo é sabedoria de poucos."
