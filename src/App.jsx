@@ -2,7 +2,6 @@ import { useState } from "react";
 
 import Header from "./components/Header";
 import { Inspiration } from "./components/Inspiration";
-import { AppConsulta } from "./components/AppConsulta";
 
 
 import "./styles/global.css";
@@ -98,7 +97,6 @@ function App() {
         </ul>
       </section>
 
-            <AppConsulta />
     </>
   );
 }

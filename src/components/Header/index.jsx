@@ -5,13 +5,12 @@ function Header() {
     <header id="header">
       <nav>
         <span className="nav-brand">
-          <span>Let's</span>DoIt
+          <span>Tarefas </span>& Consultas
         </span>
 
         <div className="profile">
           <img src={Images}  alt="Washington - Imagem de Perfil" />
-
-          <div>
+        <div>
             <p className="name">Washington Gomes</p>
             <p className="welcome-message">Bem-vindo(a) a este site</p>
           </div>
