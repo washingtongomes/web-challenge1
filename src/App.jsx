@@ -69,8 +69,6 @@ function App() {
   return (
     <>
       <Header />
-      <Inspiration />
-
       <section id="tarefas">
         <h2>Minhas Tarefas</h2>
 
@@ -96,6 +94,7 @@ function App() {
           ))}
         </ul>
       </section>
+      <Inspiration />
 
     </>
   );
