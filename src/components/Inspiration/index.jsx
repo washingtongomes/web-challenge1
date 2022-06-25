@@ -17,7 +17,7 @@ export function Inspiration() {
           <p className="card-citation">
             <strong> Washington</strong>
           </p>
-          <iframe title="Consulta_Lojas_TI" width="900" height="700.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTI1NWIzYTEtNmE2Yi00OGM1LWI5NWItMDQ2NDZlNmExZWE1IiwidCI6ImFiODBjOTNmLTgwYmEtNDVhNC04MTIwLWEwOTYwNWU4ZjgwMCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+          <iframe title="Consulta_Lojas_TI" width="900.0" height="700.0" src="https://app.powerbi.com/view?r=eyJrIjoiNTI1NWIzYTEtNmE2Yi00OGM1LWI5NWItMDQ2NDZlNmExZWE1IiwidCI6ImFiODBjOTNmLTgwYmEtNDVhNC04MTIwLWEwOTYwNWU4ZjgwMCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
         </div>
       </div>

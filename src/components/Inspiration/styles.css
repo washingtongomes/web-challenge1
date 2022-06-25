@@ -1,6 +1,6 @@
 
 #inspiration {
-  max-width: 980px;
+  max-width: auto;
 
 
 }
@@ -24,7 +24,7 @@
 
 #inspiration .inspiration-cards .card {
   height: auto;
-  max-width: 950px;
+  max-width: 1020px;
   padding: 3px;
   background-color: #203047;
   border-radius: 10px;
